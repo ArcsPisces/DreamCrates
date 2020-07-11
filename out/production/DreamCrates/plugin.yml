@@ -1,0 +1,11 @@
+name: DreamCrates
+version: 1.0
+main: net.fjcode.dreamcrates.DreamCrates
+author: ArcsPisces
+api-version: 1.15
+description: Highly functional, highly customisable crates plugin for your server.
+commands:
+  dreamcrates:
+    description: Core command to interact with DreamCrates.
+    aliases: [dc, crates, dcrates]
+    permission: dreamcrates.user
